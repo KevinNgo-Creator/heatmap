@@ -1,0 +1,23 @@
+.container{
+    width: 800px;
+    margin: 30px auto;
+}
+.custom1{
+    background-color: #a6c96a !important;
+}
+.custom2{
+    background-color: #5cb85c !important;
+}
+.custom3{
+    background-color: #009e47 !important;
+}
+.custome4{
+    background-color: #00753a !important;
+}
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    color: #333;
+}
+h3 {
+    font-size: 18px;
+}
